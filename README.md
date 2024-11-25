@@ -15,7 +15,7 @@ As a student of cybersecurity at the Platform and law at university, I am passio
 4. Tic Tac Toe Game (Python)
 
 #### Personal Information
-- Adress: 84 Avenue du 8 mai 1945, 13127 Vitrolles
+- Adress: 84 Avenue du 8 mai 1945
 - Number phone: 06 25 77 25 63 
 
 
