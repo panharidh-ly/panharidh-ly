@@ -16,8 +16,7 @@ As a student of cybersecurity at the Platform and law at university, I am passio
 ### Projet Realize
 <a href="https://github.com/panharidh-ly/CV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=panharidh-ly&repo=CV" /></a></a>
 <a href="https://github.com/ilona-baude/fansite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ilona-baude&repo=fansite" /></a>
-. Tic Tac Toe Game (Python)
-
+<a href="https://github.com/Etienne-VERSCHUERE/Morpion/tree/Etienne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Etienne-VERSCHUERE&repo=Morpion" /></a>
 
 ---
 #### Personal Information
