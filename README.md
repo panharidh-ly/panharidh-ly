@@ -1,4 +1,4 @@
-<img width ="100%" height="50%" src ="https://github.com/panharidh-ly/Images_Github/blob/main/giphy.webp">
+<img width ="100%" height="20%" src ="https://github.com/panharidh-ly/Images_Github/blob/main/giphy.webp">
 
 # Project 🤔
 As a student of cybersecurity at the Platform and law at university, I am passionate about the intersection between technology and law. Currently seeking a dual career to develop my technical skills in network and system security, I aim to strengthen my expertise in these areas while deepening my understanding of the legal issues related to cybersecurity. My professional goal is to become a cybersecurity lawyer, combining technical and legal skills to meet today’s digital security challenges.
