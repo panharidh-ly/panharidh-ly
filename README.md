@@ -26,6 +26,12 @@ As a student of cybersecurity at the Platform and law at university, I am passio
 ---
 ### Code
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ---
 ### Realization 💾
 <a href="https://github.com/panharidh-ly/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=panharidh-ly&repo=portfolio"/></a></a>
