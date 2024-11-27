@@ -22,6 +22,10 @@ As a student of cybersecurity at the Platform and law at university, I am passio
 🇰🇭 (Cambodian)
 🇬🇧 (English)
 
+
+---
+### Code
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ---
 ### Realization 💾
 <a href="https://github.com/panharidh-ly/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=panharidh-ly&repo=portfolio"/></a></a>
