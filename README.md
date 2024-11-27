@@ -9,7 +9,7 @@ As a student of cybersecurity at the Platform and law at university, I am passio
 |-------------|
 |Capacité en droit - Faculté de droit Aix-Marseille|
 |Bachelor IT - Laplateforme|
-|Niveau baccalauréat général - Lycée Pierre Mendes France|
+|Baccalauréat général - Lycée Pierre Mendes France|
 
 |Certification|
 |-------------|
