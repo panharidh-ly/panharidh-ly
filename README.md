@@ -25,7 +25,7 @@ As a student of cybersecurity at the Platform and law at university, I am passio
 ---
 ### Realization 💾
 <a href="https://github.com/panharidh-ly/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=panharidh-ly&repo=CV" /></a></a>
-<a href="https://github.com/panharidh-ly/Fansite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ilona-baude&repo=fansite" /></a>
+<a href="https://github.com/panharidh-ly/Fansite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ilona-baude&repo=Fansite" /></a>
 <a href="https://github.com/panharidh-ly/Tic-Tac-Toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Etienne-VERSCHUERE&repo=Morpion" /></a>
 
 ---
