@@ -38,10 +38,7 @@ As a student of cybersecurity at the Platform and law at university, I am passio
 <a href="https://github.com/panharidh-ly/Fansite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=panharidh-ly&repo=Fansite"/></a>
 <a href="https://github.com/panharidh-ly/Tic-Tac-Toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=panharidh-ly&repo=Tic-Tac-Toe"/></a>
 
----
-#### Personal Information 🛂
-- Adress: 84 Avenue du 8 mai 1945
-- Number phone: 06 25 77 25 63 
+ 
 
 
 
